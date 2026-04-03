@@ -10,7 +10,7 @@ The goal is to identify patterns and provide simple, practical insights to suppo
 
 ## Dashboard Preview
 
-
+![Dashboard](dashboard.png)
 
 ---
 
